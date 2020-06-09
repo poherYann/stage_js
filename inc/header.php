@@ -17,6 +17,7 @@
             <li><a href="http://localhost/stage_js/exercice_javascript/exerciceCinq.php">Exo 5</a></li>
             <li><a href="http://localhost/stage_js/exercice_javascript/exerciceSix.php">Exo 6</a></li>
             <li><a href="http://localhost/stage_js/exercice_javascript/exerciceSept.php">Exo 7</a></li>
+            <li><a href="http://localhost/stage_js/exercice_javascript/exerciceHuit.php">Exo 8</a></li>
         </ul>
     </nav>
 </header>
